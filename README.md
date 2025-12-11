@@ -4,7 +4,7 @@
 
 Intended to be used by passing data to geometry shader which generates (colored) cuboids at given positions
 
-FILE EXTENSION: `.cube`
+FILE EXTENSION: `.cubes`
 
 FORMAT (binary data):
 ```
