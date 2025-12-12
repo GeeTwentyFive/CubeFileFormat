@@ -1,8 +1,4 @@
-**CURRENTLY WIP**
-
 3D axis-aligned cuboids-only mesh file format (like for AABB engines for example)
-
-Intended to be used by passing data to geometry shader which generates (colored) cuboids at given positions
 
 FILE EXTENSION: `.cubes`
 
@@ -14,4 +10,4 @@ u32 num_cubes |
 
 Official C reader & writer lib: https://github.com/GeeTwentyFive/CubeLib
 
-Official runtime Godot loader: WIP
+Official runtime Godot loader: https://github.com/GeeTwentyFive/GodotCubeLoader
