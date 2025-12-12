@@ -1,6 +1,6 @@
 **CURRENTLY WIP**
 
-3D axis-aligned cuboid file format (like for AABB engines for example)
+3D axis-aligned cuboids-only mesh file format (like for AABB engines for example)
 
 Intended to be used by passing data to geometry shader which generates (colored) cuboids at given positions
 
