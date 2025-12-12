@@ -1,5 +1,3 @@
-**CURRENTLY WIP**
-
 3D colored cuboids mesh file format
 
 FILE EXTENSION: `.cubes`
